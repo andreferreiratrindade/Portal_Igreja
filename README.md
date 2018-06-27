@@ -4,8 +4,12 @@ Portal igreja - BackEnd
 Projeto tem como objetivo servir de backend para o app mobile do Portal igreja.
 
 >> Principais funcionalidades do sistema:
-      Cadastro de usuário
-      Login por Token
+      $ Manter Cadastro de usuário
+      $ Login por Token
+      $ Manter Igreja
+      $ Manter Ministração
+      $ Manter Ministerio
+   
   
 
 Projeto em Node, utilizando 
